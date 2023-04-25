@@ -6,4 +6,5 @@ To tell you the truth, at this moment, I don't know anything about how a OS work
 I mean, when I say anything, is just the basics.
 
 Some resources, can be:
-    - [Bootloader](https://www.ionos.com/digitalguide/server/configuration/what-is-a-bootloader/)
+- [Os-dev Book](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
+- [Bootloader](https://www.ionos.com/digitalguide/server/configuration/what-is-a-bootloader/)
